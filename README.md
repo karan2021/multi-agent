@@ -1,8 +1,8 @@
 # multi-agent
-A multi-agent application for planinng whole vacation for user inculding flights,hotel,activies to do per days, and the amount will spend on vacation.
+A multi-agent application for planing whole vacation for user including flights,hotel,activities to do per days, and the amount will spend on vacation.
 
 IMPORTANT
-To use this repository you have to make .env folder in which you will store your API keys and postgressql url.
+To use this repository you have to make .env file in which you will store your API keys and postgressql url.
 Like--
 
 GROQ_API_KEY= paste your key where.. It is used for llm model text to text.
